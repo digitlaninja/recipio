@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+.btn-primary {
+  background-color: #f6c90e !important;
+  color: #f9f9f9 !important;
+}
+
+.btn-success {
+  background-color: #f6c90e !important;
+  color: #f9f9f9 !important;
+}
+
+.btn-danger {
+  background-color: #f54d42 !important;
+  color: #f9f9f9 !important;
+}
+
+.navbar-inverse {
+  background-color: #f6c90e !important;
+}
